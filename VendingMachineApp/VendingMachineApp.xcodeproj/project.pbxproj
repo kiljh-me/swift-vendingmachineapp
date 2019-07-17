@@ -70,7 +70,6 @@
 		33FB519B22C9F47F005819A6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33FAF06422C2061400588E95 /* ViewController.swift */; };
 		33FB519C22C9F481005819A6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33FAF06222C2061400588E95 /* AppDelegate.swift */; };
 		A24EB8F9EC4F7BA094E57D5E /* Pods_VendingMachineAppTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 555FF32E488228DA33F8D6FE /* Pods_VendingMachineAppTests.framework */; };
-		AC9412E3C086A84BC1AC021A /* Pods_VendingMachineApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 896EB3C9E8543523E32D435F /* Pods_VendingMachineApp.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -141,7 +140,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AC9412E3C086A84BC1AC021A /* Pods_VendingMachineApp.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
