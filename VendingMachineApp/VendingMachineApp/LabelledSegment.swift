@@ -6,7 +6,7 @@
 //  Copyright © 2019 길준호. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 /// Defines a segment of the pie chart.
 struct LabelledSegment {
